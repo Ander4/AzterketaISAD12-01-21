@@ -1,0 +1,16 @@
+ehu/isad/controllers/DB/DBKudeatzaile.java
+ ehu.isad.controllers.DB.DBKudeatzaile
+ehu/isad/utils/Utils.java
+ ehu.isad.utils.Utils
+ehu/isad/model/Liburua.java
+ ehu.isad.model.Liburua
+module-info.java
+ module-info
+ehu/isad/model/PHPinfo.java
+ ehu.isad.model.PHPinfo
+ehu/isad/controllers/DB/TaulaDBKud.java
+ ehu.isad.controllers.DB.TaulaDBKud
+ehu/isad/controllers/UI/TaulaKud.java
+ ehu.isad.controllers.UI.TaulaKud
+ehu/isad/Main.java
+ ehu.isad.Main
